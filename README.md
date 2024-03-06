@@ -1,8 +1,6 @@
 # 🏀 Arc Browser Boost for localizing times on NBA.com
 This script is a Boost for [Arc Browser](https://arc.net/) that convert game times on [NBA.com](https://nba.com) from Eastern Standard Time into the desired timezone – default is the Central European Time (inclduing check for summer/winter time).
 
-![Screenshot of the Twitter UI with Miniaml Twitter applied](/screenshot.png)
-
 ## Where does the script apply?
 1. Game schedule in top banner on homepage:
 ![Game schedule in top banner on homepage](/scores-banner.png)
